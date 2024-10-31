@@ -6,4 +6,5 @@ It uses Apollo Server with Express, and GraphQL-Request and Apollo Client as Gra
 
 
 # GrapQL Cache: Use ApolloClient + ApolloServer MemCache:
+![image](https://github.com/user-attachments/assets/122fd6d7-bc3c-4f3f-af73-052d0c9dcf8c)
 ![image](https://github.com/user-attachments/assets/9c91cb30-e55b-44fc-a3c7-2ac719f6feaa)
